@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map ADS124x
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADS124x	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin KEYWORD2
+select KEYWORD2
+deselect KEYWORD2
+stop_auto KEYWORD2
+writeRegister KEYWORD2
+sleep KEYWORD2
+read KEYWORD2
+reset KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+REG_MUX0 LITERAL1
+REG_MUX1 LITERAL1
+REG_SYS0 LITERAL1
+REG_IDAC0 LITERAL1
+REG_IDAC1 LITERAL1
+VREFCON_AUTO LITERAL1
+PGA_16 LITERAL1
+IMAG_50 LITERAL1
+I1DIR_AIN1 LITERAL1
+I2DIR_NONE LITERAL1
+SP_AIN1 LITERAL1
+SN_AIN0 LITERAL1
