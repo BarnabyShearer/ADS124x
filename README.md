@@ -2,4 +2,3 @@
 
 ADS124x library for arduino.
 
-
